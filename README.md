@@ -8,7 +8,7 @@ A QR scanner that finds and atempts to detect and correct perspective.
 I have been trying out different ways of trying to find the corners of the QR code in ordet to apply Perspective Transformation.
 The starting point has been an algorithim that finds three corners of the QR code.
 
-### Break down into end to end tests
+### Break down 
 
 
 
